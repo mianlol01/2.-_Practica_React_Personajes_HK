@@ -1,3 +1,6 @@
+![image](https://github.com/mianlol01/2.-_Practica_React_Personajes_HK/assets/144628881/3c2debe4-f431-4ba5-96e6-495289b6d3bf)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
