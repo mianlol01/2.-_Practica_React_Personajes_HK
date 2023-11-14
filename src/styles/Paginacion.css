@@ -1,0 +1,32 @@
+.controles-paginacion {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 100px;
+}
+.controles-paginacion {
+  margin-bottom: 5px;
+  position: fixed;
+  bottom: 0;
+}
+.botones {
+  border-radius: 50px;
+  overflow: hidden;
+}
+.controles-paginacion button {
+  border: #414141;
+  font-size: 26px;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+    "AppleGothic", sans-serif;
+    border: solid 1px #414141;
+}
+.pagina-actual {
+  background-color: #414141;
+  color: #fff;
+  font-weight: bold;
+}
+.pagina-actual button {
+  background-color: #414141;
+}

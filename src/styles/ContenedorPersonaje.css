@@ -1,0 +1,27 @@
+.div-global {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    overflow: hidden;
+    justify-items: center;
+}
+.div-controles {
+    display: flex;
+    flex-wrap: wrap;
+}
+.div-contenedor{
+    margin-top: 10px;
+text-align: center;
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   
+}
+.div-elementos {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

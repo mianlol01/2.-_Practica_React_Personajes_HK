@@ -1,0 +1,32 @@
+.controles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(65, 65, 65);
+    margin: 10px;
+    width: 400px;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+    "AppleGothic", sans-serif;
+    color: #fff;
+    font-size: 25px;
+    border-radius: 35px;
+    overflow: hidden;
+    border: solid 3px black;
+    box-shadow: 0 5px 15px black;
+}
+.controles span {
+    text-align: center;
+}
+.controles select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic,
+    "AppleGothic", sans-serif;
+    margin-left: 25px;
+    width: 250px;
+    font-size: 25px;
+    border-radius: 15px;
+    overflow: hidden;
+}
